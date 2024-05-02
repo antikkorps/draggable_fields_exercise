@@ -1,6 +1,7 @@
 # draggable_fields_exercise
 
-This is a short sample of how to implement Drag and Drop in Vue.js to understand how it is actually implement without the help of external libraries.
+This is a short sample of how to implement Drag and Drop in Vue.js to understand how it is actually implement without 
+the help of external libraries.
 
 This template should help get you started developing with Vue 3 in Vite.
 
